@@ -1,4 +1,4 @@
-The repositories you'll find in this account tend to begin with something I want to **observe, record, model, analyse or understand** — whether that's wildlife, aircraft, fossils, shell growth, stromatolites, sport, music, retrocomputing or something else that has caught my interest.
+The repositories you'll find here tend to begin with something I want to **observe, record, model, analyse or understand** — whether that's wildlife, aircraft, fossils, shell growth, stromatolites, sport, music, retrocomputing or something else that has caught my interest.
 
 🔭 At the moment I'm particularly interested in computational natural history, observational data and retrocomputing.
 
