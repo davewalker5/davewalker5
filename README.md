@@ -1,5 +1,7 @@
 The repositories you'll find here tend to begin with something I want to **observe, record, model, analyse or understand** — whether that's wildlife, aircraft, fossils, shell growth, stromatolites, sport, music, retrocomputing or something else that has caught my interest.
 
+Some projects explore a particular phenomenon through computation; others develop the tools needed to turn observations into structured, traceable evidence that can be revisited and analysed.
+
 🔭 At the moment I'm particularly interested in computational natural history, observational data and retrocomputing.
 
 🌱 I'm exploring how small computational models can help explain natural processes and emergent behaviour.
