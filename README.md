@@ -1,3 +1,6 @@
+[![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-blue?style=flat)](https://github.com/davewalker5?tab=repositories)
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/davewalker5/badge.svg)](https://hub.xerj.org/contributors/davewalker5)
+
 The repositories you'll find here tend to begin with something I want to **observe, record, model, analyse or understand** — whether that's wildlife, aircraft, fossils, shell growth, stromatolites, sport, music, retrocomputing or something else that has caught my interest.
 
 Some projects explore a particular phenomenon through computation; others develop the tools needed to turn observations into structured, traceable evidence that can be revisited and analysed.
