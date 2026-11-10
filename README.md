@@ -14,10 +14,13 @@ The subject matter is fairly eclectic, but much of what you'll find here falls i
 
 ## 🔭 Observation & Recording
 
-I enjoy collecting observations and turning them into useful, queryable datasets.
+I enjoy collecting observations and turning them into useful, queryable datasets. Increasingly, I'm also interested in the processes that turn raw observational material — including photographs and video footage — into structured records that can be identified, analysed and revisited.
 
 - [ADS-B BaseStation Reader](https://github.com/davewalker5/ADS-B-BaseStationReader) — local-first aircraft observation and analysis workspace
-- [NatureRecorderPy](https://github.com/davewalker5/NatureRecorderPy) — wildlife sightings recorder
+- [NatureRecorderPy](https://github.com/davewalker5/NatureRecorderPy) — wildlife sightings recorder and analysis environment
+- [ReefFrame](https://github.com/davewalker5/ReefFrame) — enhancement of underwater video footage and extraction of still images for subsequent examination and identification
+- [FishTrack](https://github.com/davewalker5/FishTrack) — reef-fish identification reference and assistance tool
+- [ReefTag](https://github.com/davewalker5/ReefTag) — annotation and species identification in underwater photographs, with observation provenance and transfer to Nature Recorder
 - [FossilTracker](https://github.com/davewalker5/FossilTracker) — fossil collection catalogue with taxonomy, provenance and geological context
 - [PlateLibrary](https://github.com/davewalker5/PlateLibrary) — microscopy investigation and specimen plate library
 - [FlightRecorder](https://github.com/davewalker5/FlightRecorder), [ShippingRecorder](https://github.com/davewalker5/ShippingRecorder) and [DroneFlightLog](https://github.com/davewalker5/DroneFlightLog) — personal observational logbooks
